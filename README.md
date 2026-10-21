@@ -97,6 +97,8 @@ These summaries were then connected to **Pivot Charts and Slicers** to create an
 
 ## Dashboard
 
+<img width="1367" height="663" alt="image" src="https://github.com/user-attachments/assets/8603fe07-d474-4d1a-a3e5-67b9616db0dc" />
+
 The final `Student_Dashboard` converts the analysis into a visual reporting interface.
 
 ### Dashboard Components
